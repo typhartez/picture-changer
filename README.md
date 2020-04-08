@@ -8,30 +8,18 @@ Click on the picture to show next one.
 
 To customize the display, click on the frame to show the menu.
 
-□ Public
-    Permit everyone to drop textures and click to change current picture (shared display)
-□ Fade
-    Fade out/in during picture change
-□ Bright
-    Set the picture fullbright (not dependant of environment lights)
-□ Chat
-    Tells in local chat the name of the current picture when it changes
-*TIMER
-    Shows the timer menu
-        10s, 20s, 40s
-            Wait the number of seconds between two pictures
-        1m, 2m, 5m, 10m, 20m, 40m
-            Wait the number of minutes between two pictures
-        Default
-            Revert to default (1 minute)
-        Off
-            Disable timer (picture change is manual only)
-*LIST
-    Shows the pictures list menu, permitting to select the current one
-◀ / ▶
-    Shows previous/next picture
-Reset
-    Reset the script (default values)
+* □ **Public** - Permit everyone to drop textures and click to change current picture (shared display)
+* □ **Fade** - Fade out/in during picture change
+* □ **Bright** - Set the picture fullbright (not dependant of environment lights)
+* □ **Chat** - Tells in local chat the name of the current picture when it changes
+* ***TIMER** - Shows the timer menu
+  * **10s**, **20s**, **40s** - Wait the number of seconds between two pictures
+  * **1m**, **2m**, **5m**, **10m**, **20m**, **40m** - Wait the number of minutes between two pictures
+  * **Default** - Revert to default (1 minute)
+  * **Off** - Disable timer (picture change is manual only)
+* ***LIST** - Shows the pictures list menu, permitting to select the current one
+* **◀** / **▶** - Shows previous/next picture
+* **Reset** - Reset the script (default values)
 
 ## Using the script on another build
 
